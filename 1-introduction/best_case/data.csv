@@ -1,0 +1,8 @@
+Source,Total Electricity,Wasted Electricity,Used Electricity,Transportation,Industrial,Residential,Commercial
+Coal,90,0,0,0,10,0,0
+Nuclear,100,0,0,0,0,0,0
+Natural Gas,36,0,0,3,34,16,11
+Petroleum,1,0,0,70,24,3,2
+Renewable Energy,56,0,0,12,23,7,2
+Total Electricity,0,20,80,0,0,0,0
+Used Electricity,0,0,0,0,12,40,48
